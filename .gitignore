@@ -1,0 +1,10 @@
+Notes.txt
+*.bat
+*.pbxproj
+www/.settings/*
+www/.project
+.project
+
+# Compiled source #
+###################
+platforms
